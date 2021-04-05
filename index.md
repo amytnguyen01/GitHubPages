@@ -23,8 +23,7 @@
 
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
-![Image of Python]
-(Screen Shot 2021-04-05 at 10.27.47 AM.png)
+![Image of Python](Screen Shot 2021-04-05 at 10.27.47 AM.png)
 
 ### **Why?**
 
