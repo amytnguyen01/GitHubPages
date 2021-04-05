@@ -12,14 +12,20 @@
 * [:white_check_mark: Goals](#Goals)
 
 ## Experience
-### This is a link to the class's webpage:
 
-[CSE8A WI20](https://ucsd-cse8a-w21.github.io/)
+[My Resume](resume.pdf)
+
+Some of my favorite experiences in my career are teaching experiences. 
+
+Here a few: 
+
+* I was a Coding Instructor at Code Ninjas!
+* I taught Vietnamese at my local church on Sundays
+* I was a tutor for the CSE Department for [CSE 8A](https://ucsd-cse8a-w21.github.io/)
 
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
 ![Image of Python](pie.png)
-
 
 ## Interests
 
