@@ -1,5 +1,5 @@
-# :cherry_blossom: Hi! My name is **Amy Nguyen**.
-### I am currently a 2nd year at UC San Diego studying Computer Science :woman_technologist:. 
+# 🌸 Hi! My name is **Amy Nguyen**.
+### I am currently a 2nd year at UC San Diego studying Computer Science 👩‍💻. 
 ### I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
 
 ## One of my favorite quotes is
