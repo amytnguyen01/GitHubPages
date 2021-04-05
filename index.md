@@ -1,7 +1,7 @@
-# Hi! My name is **Amy Nguyen**.
+# :cherry_blossom: Hi! My name is **Amy Nguyen**.
 ### I am currently a 2nd year at UC San Diego. I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
 
-About me:
+### About me:
 * [Experience](#Experience)
 * [Interests]()
 * [Hobbies](#here-are-some-of-my-hobbies)
@@ -32,7 +32,7 @@ About me:
 
 ### **Why?**
 
-### Here are some goals I have for the year:
+## Here are some goals I have for the year:
 
 - [ ] Become better at debugging
 - [ ] Try to make a couple more projects!
