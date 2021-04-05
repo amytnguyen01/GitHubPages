@@ -1,4 +1,4 @@
 # GitHubPages
-Amy's User Page6
+Amy's User Page
 
 My favorite programming language is Python! :)
