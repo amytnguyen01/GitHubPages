@@ -9,7 +9,7 @@
 ## One of my favorite quotes is
 > "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." -Helen Keller
 
-## My favorite programming language is **Python**
+# My favorite programming language is **Python**
 
 ### One of my favorite functions in Python is
 
@@ -23,11 +23,11 @@
 
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
-![Image of Python](Screen Shot 2021-04-05 at 10.27.47 AM.png)
+![Image of Python](pie.png)
 
 ### **Why?**
 
-[Section of Goals] (##**Goals**)
+[Section of Goals](#**Goals**)
 
 ## **Goals**
 ### Here are some goals I have for the year:
