@@ -17,7 +17,7 @@
 
 Some of my favorite experiences in my career are teaching experiences. 
 
-Here a few: 
+Here are a few: 
 
 * I was a Coding Instructor at Code Ninjas!
 * I taught Vietnamese at my local church on Sundays
