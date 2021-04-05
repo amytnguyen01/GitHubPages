@@ -2,34 +2,56 @@
 ### I am currently a 2nd year at UC San Diego studying Computer Science :woman_technologist:. 
 ### I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
 
-### About me:
-* [ :wrench: Experience](#Experience)
-* [:mag_right: Interests]()
-* [:paintbrush: Hobbies](#here-are-some-of-my-hobbies)
-* [:white_check_mark: Goals](#here-are-some-goals-i-have-for-the-year)
+## One of my favorite quotes is
+> "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." -Helen Keller
 
+### About me:
+* [:wrench: Experience](#Experience)
+* [:mag_right: Interests](#Interests)
+* [:art: Hobbies](#Hobbies)
+* [:white_check_mark: Goals](#Goals)
+
+## Experience
 ### This is a link to the class's webpage:
 
 [CSE8A WI20](https://ucsd-cse8a-w21.github.io/)
 
-## One of my favorite quotes is
-> "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." -Helen Keller
+### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
-# My favorite programming language is **Python**
+![Image of Python](pie.png)
 
-### One of my favorite functions in Python is
 
-`len()`
+## Interests
 
-**If I had to rank my favorite programming languages, they would be**
+I love to code! My favorite progamming language is **Python**
+
+My favorite Python function is 
+
+`len` 
+
+because it is extremely useful in so many cases!
+
+If I had to rank my favorite programming languages, they would be**
 
 1. Python
 2. Java
 3. C++
 
-### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
+## Hobbies
 
-![Image of Python](pie.png)
+* I enjoy playing tennis with my friends!
+* I adore painting old records to give them a new purpose :) 
+* I love cooking and recreating my favorite meals
+
+My favorite foods are:
+* :watermelon: Watermelon
+* :pretzel: Soft Pretzels
+* :taco: Tacos
+* :curry: Curry
+* :icecream: Vanilla Ice Cream
+
+## Goals
+
 
 ### **Why?**
 
