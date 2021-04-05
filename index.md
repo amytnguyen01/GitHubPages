@@ -23,10 +23,12 @@
 
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
-![Image of PyThon]
-(https://github.com/amytnguyen01/GitHubPages/blob/main/Screen%20Shot%202021-04-05%20at%2010.27.47%20AM.png)
+![Image of Python]
+(Screen Shot 2021-04-05 at 10.27.47 AM.png)
 
 ### **Why?**
+
+[Section of Goals] (##**Goals**)
 
 ## **Goals**
 ### Here are some goals I have for the year:
