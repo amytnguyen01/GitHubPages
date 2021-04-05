@@ -31,7 +31,7 @@ My favorite Python function is
 
 because it is extremely useful in so many cases!
 
-If I had to rank my favorite programming languages, they would be**
+My favorite programming languages, ranked:
 
 1. Python
 2. Java
@@ -39,9 +39,9 @@ If I had to rank my favorite programming languages, they would be**
 
 ## Hobbies
 
-* I enjoy playing tennis with my friends!
-* I adore painting old records to give them a new purpose :) 
-* I love cooking and recreating my favorite meals
+* :tennis: I enjoy playing tennis with my friends!
+* :art: I adore painting old records to give them a new purpose :) 
+* :woman_cook: I love cooking and recreating my favorite meals
 
 My favorite foods are:
 * :watermelon: Watermelon
@@ -52,23 +52,9 @@ My favorite foods are:
 
 ## Goals
 
-
-### **Why?**
-
-## Here are some goals I have for the year:
-
 - [ ] Become better at debugging
 - [ ] Try to make a couple more projects!
 - [ ] Learn something new every day
-
-## Here are some of my hobbies: 
-
-* Playing tennis!
-* Cooking!
-* Painting old records!
-
-
-
 
 
 
