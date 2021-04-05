@@ -44,7 +44,7 @@ My favorite programming languages, ranked:
 2. Java
 3. C++
 
-I particularly am interested in FrontEnd Design and Product Management. 
+I am particularly interested in Front End Design and Product Management. 
 
 ## Hobbies
 
