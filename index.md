@@ -26,6 +26,7 @@ Here a few:
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
 ![Image of Python](pie.png)
+by Rachel Lim
 
 ## Interests
 
@@ -42,6 +43,8 @@ My favorite programming languages, ranked:
 1. Python
 2. Java
 3. C++
+
+I particularly am interested in FrontEnd Design and Product Management. 
 
 ## Hobbies
 
