@@ -1,2 +1,2 @@
 # GitHubPages
-CSE 110
+Amy's User Page
