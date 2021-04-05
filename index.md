@@ -1,11 +1,12 @@
 # :cherry_blossom: Hi! My name is **Amy Nguyen**.
-### I am currently a 2nd year at UC San Diego. I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
+### I am currently a 2nd year at UC San Diego studying Computer Science :woman_technologist:. 
+### I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
 
 ### About me:
-* [Experience](#Experience)
-* [Interests]()
-* [Hobbies](#here-are-some-of-my-hobbies)
-* [Goals](#here-are-some-goals-i-have-for-the-year)
+* [Experience :wrench:](#Experience)
+* [Interests :mag_right:]()
+* [Hobbies :paintbrush:](#here-are-some-of-my-hobbies)
+* [Goals :white_check_mark:](#here-are-some-goals-i-have-for-the-year)
 
 ### This is a link to the class's webpage:
 
