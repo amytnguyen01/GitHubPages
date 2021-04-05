@@ -24,7 +24,7 @@
 ### Here is an image one of my fellow tutors drew for the class I was tutoring. Get it? 
 
 ![Image of PyThon]
-(https://github.com/amytnguyen01/GitHubPages/blob/main/IMG_3174.HEIC)
+(https://github.com/amytnguyen01/GitHubPages/blob/main/Screen%20Shot%202021-04-05%20at%2010.27.47%20AM.png)
 
 ### **Why?**
 
