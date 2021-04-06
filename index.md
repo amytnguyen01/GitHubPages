@@ -1,15 +1,15 @@
-# 🌸 Hi! My name is **Amy Nguyen**.
-### I am currently a 2nd year at UC San Diego studying Computer Science 👩‍💻. 
+# 👩‍💻 Hi! My name is **Amy Nguyen**.
+### I am currently a 2nd year at UC San Diego studying Computer Science :woman_technologist:. 
 ### I am an incoming Explore Intern @Microsoft and have previously tutored CSE 8A (Introduction to OOP).
 
 ## One of my favorite quotes is
 > "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." -Helen Keller
 
 ### About me:
-* [:wrench: Experience](#Experience)
-* [:mag_right: Interests](#Interests)
-* [:art: Hobbies](#Hobbies)
-* [:white_check_mark: Goals](#Goals)
+* [🔧 Experience](#Experience)
+* [🔎 Interests](#Interests)
+* [🎨 Hobbies](#Hobbies)
+* [✅ Goals](#Goals)
 
 ## Experience
 
@@ -48,22 +48,24 @@ I am particularly interested in Front End Design and Product Management.
 
 ## Hobbies
 
-* :tennis: I enjoy playing tennis with my friends!
-* :art: I adore painting old records to give them a new purpose :) 
-* :woman_cook: I love cooking and recreating my favorite meals
+* 🎾 I enjoy playing tennis with my friends!
+* 🎨 I adore painting old records to give them a new purpose :) 
+* 👩‍🍳 I love cooking and recreating my favorite meals
 
 My favorite foods are:
-* :watermelon: Watermelon
-* :pretzel: Soft Pretzels
-* :taco: Tacos
-* :curry: Curry
-* :icecream: Vanilla Ice Cream
+* 🍉 Watermelon
+* 🥨 Soft Pretzels
+* 🌮 Tacos
+* 🍛 Curry
+* 🍦 Vanilla Ice Cream
 
 ## Goals
 
-- [ ] Become better at debugging
-- [ ] Try to make a couple more projects!
-- [ ] Learn something new every day
+- [ ] 🖥️ Become better at debugging 
+- [ ] 🔨 Try to make a couple more projects!
+- [ ] 📚 Learn something new every day
+- [ ] 🏃‍♀️ Run a marathon!
+
 
 
 
